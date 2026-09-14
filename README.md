@@ -1,6 +1,6 @@
 Atividade-no-git-Professor-Ronaldo 14/09/2026
 
-1.CRIAR PASTA E INICIALIZAR O GIT cd ~/Downloads mkdir/ atividade-git/ cd atividade-git/ git init
+1.CRIAR PASTA E INICIALIZAR O GIT cd ~/Downloads mkdir atividade-git/ cd atividade-git/ git init
 
 2.CONFIGURAR USUÁRIO git config --global user.name Vinicius Maia/ git config --global user.email viniciusmaia1510@gmail.com
 
