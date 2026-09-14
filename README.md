@@ -1,5 +1,4 @@
-Atividade-no-git-Professor-Ronaldo
-Atividade no git 14/09/2026
+Atividade-no-git-Professor-Ronaldo 14/09/2026
 
 1.CRIAR PASTA E INICIALIZAR O GIT cd ~/Downloads mkdir atividade-git cd atividade-git git init
 
